@@ -1,4 +1,4 @@
-This website was made as the final project for the Web Dev course at UNCC (ITIS 3135) in order to make practical use of HTML, CSS, and JavaScript using elements such as the navigation bar (with dynamic resizing), an image carousel, and form elements (no back-end).
+This website was made for the open-ended final project as part of the web development course at UNCC (ITIS 3135). It implements elements such as the navigation bar (with dynamic resizing), an image carousel, and form elements (no back-end) in order to make practical use of HTML, CSS, and JavaScript.
 
 Note: The company is fictional and the employees' faces are AI-generated.
 
